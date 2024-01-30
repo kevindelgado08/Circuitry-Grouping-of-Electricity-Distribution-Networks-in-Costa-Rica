@@ -1,2 +1,2 @@
 # Circuitry-Grouping-of-Electricity-Distribution-Networks-in-Costa-Rica
-Course project IE0435-Artificial Intelligence applied to Electrical Engineering. 
+Course project IE0435-Artificial Intelligence applied to Electrical Engineering. By Kevin Delgado Rojas.
